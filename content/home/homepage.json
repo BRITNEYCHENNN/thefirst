@@ -1,7 +1,14 @@
 {
   "title": "Home",
   "content": "intro.md",
-  "gallery": [{
+  "gallery": [
+    {
+    "title": "First Photo",
+    "copy": "This is the first photo that I uploaded.",
+    "image": "../images/gallery/firstphoto.jpg"
+  },
+    
+    {
     "title": "React Context",
     "copy": "For global styles.",
     "image": "../images/gallery/react-context.jpg"
