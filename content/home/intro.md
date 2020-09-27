@@ -1,3 +1,1 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
-
-Michael Kenna is an English photographer best known for his unusual black & white landscapes featuring ethereal light achieved by photographing at dawn or at night with exposures of up to 10 hours
+Portrait photography or portraiture in photography is a photograph of a person or group of people that captures the personality of the subject by using effective lighting, backdrops, and poses. A portrait picture might be artistic, or it might be clinical, as part of a medical study. Frequently, portraits are commissioned for special occasions, such as weddings or school events. Portraits can serve many purposes, from usage on a personal Web site to display in the lobby of a business.
