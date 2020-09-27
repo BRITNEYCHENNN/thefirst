@@ -16,7 +16,7 @@ const Index = ({ data }) => (
       </Title>
       <Modal>
         <video
-          src="https://i.imgur.com/gzFqNSW.mp4"
+          src="https://i.imgur.com/RzXF2Eu.mp4"
           playsInline
           loop
           autoPlay
