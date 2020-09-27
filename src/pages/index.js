@@ -16,6 +16,15 @@ const Index = ({ data }) => (
       </Title>
       <Modal>
         <video
+          src="https://i.imgur.com/nHqxm7d.mp4"
+          playsInline
+          loop
+          autoPlay
+          muted
+        />
+      </Modal>
+      <Modal>
+        <video
           src="https://i.imgur.com/RzXF2Eu.mp4"
           playsInline
           loop
